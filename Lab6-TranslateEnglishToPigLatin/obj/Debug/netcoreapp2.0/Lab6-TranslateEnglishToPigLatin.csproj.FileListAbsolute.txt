@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\bin\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.deps.json
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\bin\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\bin\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\bin\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.dll
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\bin\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.pdb
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.dll
+C:\Users\Owner\source\repos\Lab6-TranslateEnglishToPigLatin\Lab6-TranslateEnglishToPigLatin\obj\Debug\netcoreapp2.0\Lab6-TranslateEnglishToPigLatin.pdb
